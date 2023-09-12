@@ -16,6 +16,17 @@ console.log(valueInNumber)
 
 
 
-let isLoggedIn=1
-let booleanIsLoggedIn=Boolean(isLoggedIn)
-print(booleanIsLoggedIn)
+// let isLoggedIn=1==>true
+// let isloggedIn=0==>false
+// let isloggedIn=''==>false
+let isloggedIn='ALi Murtaza'
+let booleanIsLoggedIn=Boolean(isloggedIn)
+console.log(booleanIsLoggedIn)
+
+
+// let someNumber=33==>can convert into string
+// let someboolean=true;==>can convert into string
+// let someboolean=NaN==>can be convert into string
+let someValue= String(someboolean)
+console.log(someValue)
+console.log(typeof someValue)
