@@ -1,5 +1,7 @@
 //js is dynamic type because typeof variable set during runtime
 
+// Premitive datatype total 7 /call by value
+//String,Number,Boolearn,null,undefined,symbol,BigInt
 
 
 const score=100
@@ -19,8 +21,6 @@ console.log(bigNumber)
 //Premitive vs Non Premitive datatypes
 
 
-// Premitive datatype total 7 /call by value
-//String,Number,Boolearn,null,undefined,symbol,BigInt
 
 
 //Non Premitive Datatype==> Reference Type
