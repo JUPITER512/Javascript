@@ -17,7 +17,7 @@ console.log(real_another_array)
 
 console.log(Array.isArray("Ali Murtaza"));
 console.log(Array.from("Ali Murtaza"));
-console.log(Array.from({name:"Hitesh",}));//
+console.log(Array.from({name:"Murtaza",}));//
 let score1=100
 let score2=200
 let score3=300
